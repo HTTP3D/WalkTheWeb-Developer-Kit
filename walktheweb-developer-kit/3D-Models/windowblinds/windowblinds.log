@@ -1,0 +1,693 @@
+Exporter version: 5.6.4, Blender version: 2.78 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  true
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+	Python World class constructor completed
+	processing begun of node:  windowblinds
+	processing begun of mesh:  track
+		processing begun of Standard material:  Darker Metal
+		processing begun of Standard material:  Track
+		processing begun of multimaterial:  windowblinds.Multimaterial#0
+		num positions      :  336
+		num normals        :  336
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1938
+	processing begun of mesh:  slat1
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		processing begun of Standard material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#1
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat2
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#2
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat3
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#3
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat4
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#4
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat5
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#5
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat6
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#6
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat7
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#7
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat8
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#8
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat9
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#9
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat10
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#10
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat11
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#11
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat12
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#12
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat13
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#13
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat14
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#14
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat15
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#15
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat16
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#16
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat17
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#17
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat18
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  windowblinds.Multimaterial#18
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  handle
+		animation processing begun
+			processing action handleAction:  in[1 - 1], out[0 - 1]
+			processing action slat10Action:  in[1 - 30], out[10 - 40]
+			processing action slat11Action:  in[1 - 30], out[50 - 80]
+			processing action slat12Action:  in[1 - 30], out[90 - 120]
+			WARNING: action slat13Action has no frames, ignored.
+			processing action slat13Action.001:  in[1 - 30], out[130 - 160]
+			WARNING: action slat14Action has no frames, ignored.
+			processing action slat14Action.001:  in[1 - 30], out[170 - 200]
+			WARNING: action slat15Action has no frames, ignored.
+			processing action slat15Action.001:  in[1 - 30], out[210 - 240]
+			WARNING: action slat16Action has no frames, ignored.
+			processing action slat16Action.001:  in[1 - 30], out[250 - 280]
+			WARNING: action slat17Action has no frames, ignored.
+			processing action slat17Action.001:  in[1 - 30], out[290 - 320]
+			processing action slat18Action:  in[1 - 30], out[330 - 360]
+			processing action slat1Action:  in[1 - 30], out[370 - 400]
+			processing action slat2Action:  in[1 - 30], out[410 - 440]
+			processing action slat3Action:  in[1 - 30], out[450 - 480]
+			processing action slat4Action:  in[1 - 30], out[490 - 520]
+			processing action slat5Action:  in[1 - 30], out[530 - 560]
+			processing action slat6Action:  in[1 - 30], out[570 - 600]
+			processing action slat7Action:  in[1 - 30], out[610 - 640]
+			processing action slat8Action:  in[1 - 30], out[650 - 680]
+			processing action slat9Action:  in[1 - 30], out[690 - 720]
+		processing begun of Standard material:  handle
+		registered as also a user of material:  Track
+		processing begun of multimaterial:  windowblinds.Multimaterial#19
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.9838 secs
