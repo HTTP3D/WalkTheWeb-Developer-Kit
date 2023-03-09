@@ -1,0 +1,257 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  true
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+	Python World class constructor completed
+	processing begun of node:  Desk
+	processing begun of mesh:  rightDrawer3
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		processing begun of Standard material:  Brass 
+			Diffuse texture found "gold"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  Drawer Trim
+			Diffuse texture found "drawertrimtexture"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  drawer face
+			Diffuse texture found "Yellow Wood 820"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  Behind Drawers
+			Diffuse texture found "Dark Red Wood"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  insidedrawers
+		processing begun of Standard material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#0
+		num positions      :  3526
+		num normals        :  3526
+		num uvs            :  7052
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4260
+	processing begun of mesh:  rightDrawer2
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Behind Drawers
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#1
+		num positions      :  3523
+		num normals        :  3523
+		num uvs            :  7046
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4260
+	processing begun of mesh:  rightDrawer1
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Behind Drawers
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#2
+		num positions      :  3531
+		num normals        :  3531
+		num uvs            :  7062
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4260
+	processing begun of mesh:  deskframe
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Behind Drawers
+		processing begun of Standard material:  top drawer handles
+		processing begun of multimaterial:  desk.Multimaterial#3
+		num positions      :  7218
+		num normals        :  7218
+		num uvs            :  14436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9420
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  leftDrawer3
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Behind Drawers
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#4
+		num positions      :  3528
+		num normals        :  3528
+		num uvs            :  7056
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4260
+	processing begun of mesh:  leftDrawer2
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Behind Drawers
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#5
+		num positions      :  3521
+		num normals        :  3521
+		num uvs            :  7042
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4260
+	processing begun of mesh:  leftDrawer1
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Behind Drawers
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#6
+		num positions      :  3529
+		num normals        :  3529
+		num uvs            :  7058
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4260
+	processing begun of mesh:  rightTopDrawer
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  top drawer handles
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#7
+		num positions      :  512
+		num normals        :  512
+		num uvs            :  1024
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  804
+	processing begun of mesh:  centerTopDrawer
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  Behind Drawers
+		registered as also a user of material:  top drawer handles
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#8
+		num positions      :  845
+		num normals        :  845
+		num uvs            :  1690
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1224
+	processing begun of mesh:  leftTopDrawer
+		animation processing begun
+			processing action centerTopDrawerOnClick:  in[1 - 6], out[0 - 6]
+			processing action leftDrawer1OnClick:  in[1 - 6], out[20 - 26]
+			processing action leftDrawer2OnClick:  in[1 - 6], out[40 - 46]
+			processing action leftDrawer3OnClick:  in[1 - 6], out[60 - 66]
+			processing action leftTopDrawerOnClick:  in[1 - 6], out[80 - 86]
+			processing action rightDrawer1OnClick:  in[1 - 6], out[100 - 106]
+			processing action rightDrawer2OnClick:  in[1 - 6], out[120 - 126]
+			processing action rightDrawer3OnClick:  in[1 - 6], out[140 - 146]
+			processing action rightTopDrawerOnClick:  in[1 - 6], out[160 - 166]
+		registered as also a user of material:  Drawer Trim
+		registered as also a user of material:  Brass 
+		registered as also a user of material:  top drawer handles
+		registered as also a user of material:  drawer face
+		registered as also a user of material:  insidedrawers
+		registered as also a user of material:  insidedrawerbase
+		processing begun of multimaterial:  desk.Multimaterial#9
+		num positions      :  512
+		num normals        :  512
+		num uvs            :  1024
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  804
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.0459 secs
