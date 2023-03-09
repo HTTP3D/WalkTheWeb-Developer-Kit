@@ -1,0 +1,128 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\Data\TFS\HTTP3D\secureinternal\HTTP3DInc\Blender\productdisplay\
+	Python World class constructor completed
+	processing begun of node:  Product Display
+	processing begun of mesh:  AddToCart2
+		animation processing begun
+			processing action AddToCart1OnClick:  in[1 - 15], out[0 - 15]
+			processing action AddToCart2OnClick:  in[1 - 15], out[20 - 35]
+			WARNING: action ReadMore1Action has no frames, ignored.
+			processing action ReadMore1OnClick:  in[1 - 15], out[40 - 55]
+			processing action ReadMore2OnClick:  in[1 - 15], out[60 - 75]
+		processing begun of Standard material:  Button Background
+		num positions      :  244
+		num normals        :  244
+		num uvs            :  488
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  900
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  AddToCartText2
+		processing begun of Standard material:  AddToCart Mat
+		num positions      :  706
+		num normals        :  706
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2094
+	processing begun of mesh:  DisplayBackground
+		processing begun of Standard material:  TitleDisplayMat
+		num positions      :  340
+		num normals        :  340
+		num uvs            :  680
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1128
+	processing begun of mesh:  ReadMore2
+		animation processing begun
+			processing action AddToCart1OnClick:  in[1 - 15], out[0 - 15]
+			processing action AddToCart2OnClick:  in[1 - 15], out[20 - 35]
+			WARNING: action ReadMore1Action has no frames, ignored.
+			processing action ReadMore1OnClick:  in[1 - 15], out[40 - 55]
+			processing action ReadMore2OnClick:  in[1 - 15], out[60 - 75]
+		registered as also a user of material:  Button Background
+		num positions      :  244
+		num normals        :  244
+		num uvs            :  488
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  900
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  ReadMoreText2
+		processing begun of Standard material:  ReadMore Mat
+		num positions      :  710
+		num normals        :  710
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2118
+	processing begun of mesh:  AddToCart1
+		animation processing begun
+			processing action AddToCart1OnClick:  in[1 - 15], out[0 - 15]
+			processing action AddToCart2OnClick:  in[1 - 15], out[20 - 35]
+			WARNING: action ReadMore1Action has no frames, ignored.
+			processing action ReadMore1OnClick:  in[1 - 15], out[40 - 55]
+			processing action ReadMore2OnClick:  in[1 - 15], out[60 - 75]
+		registered as also a user of material:  Button Background
+		num positions      :  244
+		num normals        :  244
+		num uvs            :  488
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  900
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  AddToCartText1
+		registered as also a user of material:  AddToCart Mat
+		num positions      :  706
+		num normals        :  706
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2094
+	processing begun of mesh:  ReadMore1
+		animation processing begun
+			processing action AddToCart1OnClick:  in[1 - 15], out[0 - 15]
+			processing action AddToCart2OnClick:  in[1 - 15], out[20 - 35]
+			WARNING: action ReadMore1Action has no frames, ignored.
+			processing action ReadMore1OnClick:  in[1 - 15], out[40 - 55]
+			processing action ReadMore2OnClick:  in[1 - 15], out[60 - 75]
+		registered as also a user of material:  Button Background
+		num positions      :  244
+		num normals        :  244
+		num uvs            :  488
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  900
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  ReadMoreText1
+		registered as also a user of material:  ReadMore Mat
+		num positions      :  710
+		num normals        :  710
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2118
+	processing begun of mesh:  displayframe
+		processing begun of Standard material:  FrameMat
+		num positions      :  1602
+		num normals        :  1602
+		num uvs            :  3204
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8196
+		WARNING: # of 0 area faces found:  80
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.2053 secs

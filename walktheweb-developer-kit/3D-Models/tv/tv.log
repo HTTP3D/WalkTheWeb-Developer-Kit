@@ -1,0 +1,124 @@
+Exporter version: 2.80.1, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\tv\
+	Python World class constructor completed
+	processing begun of node:  TV
+	processing begun of mesh:  FullScreen
+		animation processing begun
+			processing action clickFull:  in[1 - 52], out[0 - 52]
+		processing begun of material:  Button Background
+		processing begun of material:  FullScreen Button Background
+		processing begun of multimaterial:  tv.Multimaterial#0
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  StartAgain
+		animation processing begun
+			processing action clickStartAgain:  in[1 - 52], out[0 - 52]
+		processing begun of material:  Button Background
+		processing begun of material:  StartAgain Button Background
+		registered as also a user of material:  Button Background
+		processing begun of multimaterial:  tv.Multimaterial#1
+		num positions      :  50
+		num normals        :  50
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  49
+	processing begun of mesh:  Stop
+		animation processing begun
+			processing action StopAction:  in[1 - 52], out[0 - 52]
+		processing begun of material:  Button Background
+		processing begun of material:  Stop Button Background
+		registered as also a user of material:  Button Background
+		processing begun of multimaterial:  tv.Multimaterial#2
+		num positions      :  41
+		num normals        :  41
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  Play
+		animation processing begun
+			processing action clickPlay:  in[1 - 52], out[0 - 52]
+		processing begun of material:  Button Background
+		processing begun of material:  Play Button Background
+		registered as also a user of material:  Button Background
+		processing begun of multimaterial:  tv.Multimaterial#3
+		num positions      :  39
+		num normals        :  39
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  Pause
+		animation processing begun
+			processing action clickPause:  in[1 - 52], out[0 - 52]
+		processing begun of material:  Button Background
+		processing begun of material:  Pause Button Background
+		registered as also a user of material:  Button Background
+		processing begun of multimaterial:  tv.Multimaterial#4
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  54
+	processing begun of mesh:  WalkTheWeb
+		processing begun of material:  WalkTheWeb Material
+		num positions      :  582
+		num normals        :  582
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  563
+	processing begun of mesh:  Cover
+		processing begun of material:  Cover Material
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  104
+	processing begun of mesh:  Screen
+		processing begun of material:  Screen Material
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of JSON file started =========
+	writing mesh:  FullScreen
+	writing mesh:  StartAgain
+	writing mesh:  Stop
+	writing mesh:  Play
+	writing mesh:  Pause
+	writing mesh:  WalkTheWeb
+	writing mesh:  Cover
+	writing mesh:  Screen
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.272 secs
