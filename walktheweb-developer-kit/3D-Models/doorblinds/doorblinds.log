@@ -1,0 +1,810 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  true
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+	Python World class constructor completed
+	processing begun of node:  doorblinds
+	processing begun of mesh:  track
+		processing begun of Standard material:  Track
+		processing begun of Standard material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#0
+		num positions      :  336
+		num normals        :  336
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1938
+	processing begun of mesh:  handle
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		processing begun of Standard material:  handle
+		registered as also a user of material:  Track
+		processing begun of multimaterial:  doorblinds.Multimaterial#1
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  slat6
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		processing begun of Standard material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#2
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat1
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#3
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat2
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#4
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat3
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#5
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat4
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#6
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat5
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#7
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat7
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#8
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat8
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#9
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat9
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#10
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat10
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#11
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat11
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#12
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat12
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#13
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat13
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#14
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat14
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#15
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat15
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#16
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat16
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#17
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat17
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#18
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat18
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#19
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat19
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#20
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat20
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#21
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat21
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#22
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  slat22
+		animation processing begun
+			processing action handleOnMouseOver:  in[1 - 30], out[0 - 30]
+			processing action slat10OnMouseOver:  in[1 - 30], out[40 - 70]
+			processing action slat11OnMouseOver:  in[1 - 30], out[80 - 110]
+			processing action slat12OnMouseOver:  in[1 - 30], out[120 - 150]
+			processing action slat13OnMouseOver:  in[1 - 30], out[160 - 190]
+			processing action slat14OnMouseOver:  in[1 - 30], out[200 - 230]
+			processing action slat15OnMouseOver:  in[1 - 30], out[240 - 270]
+			processing action slat16OnMouseOver:  in[1 - 30], out[280 - 310]
+			processing action slat17OnMouseOver:  in[1 - 30], out[320 - 350]
+			processing action slat18OnMouseOver:  in[1 - 30], out[360 - 390]
+			processing action slat19OnMouseOver:  in[1 - 30], out[400 - 430]
+			processing action slat1OnMouseOver:  in[1 - 30], out[440 - 470]
+			processing action slat20OnMouseOver:  in[1 - 30], out[480 - 510]
+			processing action slat21OnMouseOver:  in[1 - 30], out[520 - 550]
+			processing action slat22OnMouseOver:  in[1 - 30], out[560 - 590]
+			processing action slat2OnMouseOver:  in[1 - 30], out[600 - 630]
+			processing action slat3OnMouseOver:  in[1 - 30], out[640 - 670]
+			processing action slat4OnMouseOver:  in[1 - 30], out[680 - 710]
+			processing action slat5OnMouseOver:  in[1 - 30], out[720 - 750]
+			processing action slat6OnMouseOver:  in[1 - 30], out[760 - 790]
+			processing action slat7OnMouseOver:  in[1 - 30], out[800 - 830]
+			processing action slat8OnMouseOver:  in[1 - 30], out[840 - 870]
+			processing action slat9OnMouseOver:  in[1 - 30], out[880 - 910]
+		registered as also a user of material:  slats
+		registered as also a user of material:  Darker Metal
+		processing begun of multimaterial:  doorblinds.Multimaterial#23
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.9355 secs
