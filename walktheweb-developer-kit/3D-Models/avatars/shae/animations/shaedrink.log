@@ -1,0 +1,254 @@
+Exporter version: 6.4.4, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\avatars\shae\
+	Python World class constructor completed
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:Spine, index:  1
+		processing begun of bone:  mixamorig:Spine1, index:  2
+		processing begun of bone:  mixamorig:Spine2, index:  3
+		processing begun of bone:  mixamorig:Neck, index:  4
+		processing begun of bone:  mixamorig:Head, index:  5
+		processing begun of bone:  mixamorig:HeadTop_End, index:  6
+		processing begun of bone:  mixamorig:RightEye, index:  7
+		processing begun of bone:  mixamorig:LeftEye, index:  8
+		processing begun of bone:  mixamorig:LeftShoulder, index:  9
+		processing begun of bone:  mixamorig:LeftArm, index:  10
+		processing begun of bone:  mixamorig:LeftForeArm, index:  11
+		processing begun of bone:  mixamorig:LeftHand, index:  12
+		processing begun of bone:  mixamorig:LeftHandMiddle1, index:  13
+		processing begun of bone:  mixamorig:LeftHandMiddle2, index:  14
+		processing begun of bone:  mixamorig:LeftHandMiddle3, index:  15
+		processing begun of bone:  mixamorig:LeftHandMiddle4, index:  16
+		processing begun of bone:  mixamorig:LeftHandThumb1, index:  17
+		processing begun of bone:  mixamorig:LeftHandThumb2, index:  18
+		processing begun of bone:  mixamorig:LeftHandThumb3, index:  19
+		processing begun of bone:  mixamorig:LeftHandThumb4, index:  20
+		processing begun of bone:  mixamorig:LeftHandIndex1, index:  21
+		processing begun of bone:  mixamorig:LeftHandIndex2, index:  22
+		processing begun of bone:  mixamorig:LeftHandIndex3, index:  23
+		processing begun of bone:  mixamorig:LeftHandIndex4, index:  24
+		processing begun of bone:  mixamorig:LeftHandRing1, index:  25
+		processing begun of bone:  mixamorig:LeftHandRing2, index:  26
+		processing begun of bone:  mixamorig:LeftHandRing3, index:  27
+		processing begun of bone:  mixamorig:LeftHandRing4, index:  28
+		processing begun of bone:  mixamorig:LeftHandPinky1, index:  29
+		processing begun of bone:  mixamorig:LeftHandPinky2, index:  30
+		processing begun of bone:  mixamorig:LeftHandPinky3, index:  31
+		processing begun of bone:  mixamorig:LeftHandPinky4, index:  32
+		processing begun of bone:  mixamorig:RightShoulder, index:  33
+		processing begun of bone:  mixamorig:RightArm, index:  34
+		processing begun of bone:  mixamorig:RightForeArm, index:  35
+		processing begun of bone:  mixamorig:RightHand, index:  36
+		processing begun of bone:  mixamorig:RightHandMiddle1, index:  37
+		processing begun of bone:  mixamorig:RightHandMiddle2, index:  38
+		processing begun of bone:  mixamorig:RightHandMiddle3, index:  39
+		processing begun of bone:  mixamorig:RightHandMiddle4, index:  40
+		processing begun of bone:  mixamorig:RightHandThumb1, index:  41
+		processing begun of bone:  mixamorig:RightHandThumb2, index:  42
+		processing begun of bone:  mixamorig:RightHandThumb3, index:  43
+		processing begun of bone:  mixamorig:RightHandThumb4, index:  44
+		processing begun of bone:  mixamorig:RightHandIndex1, index:  45
+		processing begun of bone:  mixamorig:RightHandIndex2, index:  46
+		processing begun of bone:  mixamorig:RightHandIndex3, index:  47
+		processing begun of bone:  mixamorig:RightHandIndex4, index:  48
+		processing begun of bone:  mixamorig:RightHandRing1, index:  49
+		processing begun of bone:  mixamorig:RightHandRing2, index:  50
+		processing begun of bone:  mixamorig:RightHandRing3, index:  51
+		processing begun of bone:  mixamorig:RightHandRing4, index:  52
+		processing begun of bone:  mixamorig:RightHandPinky1, index:  53
+		processing begun of bone:  mixamorig:RightHandPinky2, index:  54
+		processing begun of bone:  mixamorig:RightHandPinky3, index:  55
+		processing begun of bone:  mixamorig:RightHandPinky4, index:  56
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  57
+		processing begun of bone:  mixamorig:LeftLeg, index:  58
+		processing begun of bone:  mixamorig:LeftFoot, index:  59
+		processing begun of bone:  mixamorig:LeftToeBase, index:  60
+		processing begun of bone:  mixamorig:LeftToe_End, index:  61
+		processing begun of bone:  mixamorig:RightUpLeg, index:  62
+		processing begun of bone:  mixamorig:RightLeg, index:  63
+		processing begun of bone:  mixamorig:RightFoot, index:  64
+		processing begun of bone:  mixamorig:RightToeBase, index:  65
+		processing begun of bone:  mixamorig:RightToe_End, index:  66
+		processing action Armature|mixamo.com|Layer0:  in[1 - 214], out[0 - 214]
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Bottoms
+		processing begun of material:  Bottommat
+			processing texture Shae_Bottom_Normal
+				texture type:  bumpTexture, mapped using: "BottomsDiffuseUVLayer"
+			processing texture Shae_Bottom_Diffuse
+				texture type:  diffuseTexture, mapped using: "BottomsDiffuseUVLayer"
+			processing texture Shae_Bottom_Specular
+				texture type:  specularTexture, mapped using: "BottomsDiffuseUVLayer"
+			processing texture Shae_Bottom_Gloss
+				texture type:  value not meaningful 2, mapped using: "BottomsDiffuseUVLayer"
+		Custom split normals with tangents being used
+		num positions      :  2699
+		num normals        :  2699
+		num tangents       :  10796
+		num uvs            :  5398
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4014
+		Skeleton stats:  
+			Total Influencers:  14504
+			Avg # of influencers per vertex:  5.3738
+			Highest # of influencers observed:  8, num vertices with this:  73
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  21592
+	processing begun of mesh:  Tops
+		processing begun of material:  Topmat
+			processing texture Shae_Top_Normal
+				texture type:  bumpTexture, mapped using: "TopsDiffuseUVLayer"
+			processing texture Shae_Top_Diffuse
+				texture type:  diffuseTexture, mapped using: "TopsDiffuseUVLayer"
+			processing texture Shae_Top_Specular
+				texture type:  specularTexture, mapped using: "TopsDiffuseUVLayer"
+			processing texture Shae_Top_Gloss
+				texture type:  value not meaningful 2, mapped using: "TopsDiffuseUVLayer"
+		Custom split normals with tangents being used
+		num positions      :  3069
+		num normals        :  3069
+		num tangents       :  12276
+		num uvs            :  6138
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4294
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 394 vertices, extras ignored
+			Total Influencers:  20568
+			Avg # of influencers per vertex:  6.7019
+			Highest # of influencers observed:  11, num vertices with this:  394
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  24552
+	processing begun of mesh:  Hair
+		processing begun of material:  Hairmat
+			processing texture Shae_Hair_Normal
+				texture type:  bumpTexture, mapped using: "HairDiffuseUVLayer"
+			processing texture Shae_Hair_Diffuse
+				texture type:  diffuseTexture, mapped using: "HairDiffuseUVLayer"
+			processing texture Shae_Hair_Specular
+				texture type:  specularTexture, mapped using: "HairDiffuseUVLayer"
+			processing texture Shae_Hair_Gloss
+				texture type:  value not meaningful 2, mapped using: "HairDiffuseUVLayer"
+		Custom split normals with tangents being used
+		num positions      :  3843
+		num normals        :  3843
+		num tangents       :  15372
+		num uvs            :  7686
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4627
+		Skeleton stats:  
+			Total Influencers:  6101
+			Avg # of influencers per vertex:  1.5876
+			Highest # of influencers observed:  3, num vertices with this:  738
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  15372
+	processing begun of mesh:  Body
+		processing begun of material:  Bodymat
+			processing texture Shae_Body_Normal
+				texture type:  bumpTexture, mapped using: "BodyDiffuseUVLayer"
+			processing texture Shae_Body_Diffuse
+				texture type:  diffuseTexture, mapped using: "BodyDiffuseUVLayer"
+			processing texture Shae_Body_Specular
+				texture type:  specularTexture, mapped using: "BodyDiffuseUVLayer"
+			processing texture Shae_Body_Gloss
+				texture type:  value not meaningful 2, mapped using: "BodyDiffuseUVLayer"
+		Custom split normals with tangents being used
+		num positions      :  8292
+		num normals        :  8292
+		num tangents       :  33168
+		num uvs            :  16584
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12119
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 20 vertices, extras ignored
+			Total Influencers:  16766
+			Avg # of influencers per vertex:  2.0219
+			Highest # of influencers observed:  9, num vertices with this:  20
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  66336
+		Shape Keys:
+	processing begun of mesh:  Eyes
+		processing begun of material:  Bodymat
+		registered as also a user of material:  Bodymat
+		Custom split normals with tangents being used
+		num positions      :  880
+		num normals        :  880
+		num tangents       :  3520
+		num uvs            :  1760
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1520
+		Skeleton stats:  
+			Total Influencers:  880
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  880
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3520
+		Shape Keys:
+	processing begun of mesh:  default
+		processing begun of material:  Bodymat
+		registered as also a user of material:  Bodymat
+		Custom split normals with tangents being used
+		num positions      :  98
+		num normals        :  98
+		num tangents       :  392
+		num uvs            :  196
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  106
+		Skeleton stats:  
+			Total Influencers:  98
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  98
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  392
+		Shape Keys:
+	processing begun of mesh:  Shoes
+		processing begun of material:  Shoesmat
+			processing texture Shae_Shoes_Normal
+				texture type:  bumpTexture, mapped using: "ShoesDiffuseUVLayer"
+			processing texture Shae_Shoes_Diffuse
+				texture type:  diffuseTexture, mapped using: "ShoesDiffuseUVLayer"
+			processing texture Shae_Shoes_Specular
+				texture type:  specularTexture, mapped using: "ShoesDiffuseUVLayer"
+			processing texture Shae_Shoes_Gloss
+				texture type:  value not meaningful 2, mapped using: "ShoesDiffuseUVLayer"
+		Custom split normals with tangents being used
+		num positions      :  5725
+		num normals        :  5725
+		num tangents       :  22900
+		num uvs            :  11450
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6628
+		Skeleton stats:  
+			Total Influencers:  20147
+			Avg # of influencers per vertex:  3.5191
+			Highest # of influencers observed:  5, num vertices with this:  347
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  45800
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Bottoms
+	writing mesh:  Tops
+	writing mesh:  Hair
+	writing mesh:  Body
+	writing mesh:  Eyes
+	writing mesh:  default
+	writing mesh:  Shoes
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 52.2709 secs
