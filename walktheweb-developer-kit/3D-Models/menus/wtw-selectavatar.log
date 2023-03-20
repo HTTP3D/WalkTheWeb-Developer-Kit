@@ -1,0 +1,211 @@
+Exporter version: 3.3.0, Blender version: 3.3.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Data\HTTP3DInc\Blender\menus\
+	Python World class constructor completed
+	processing begun of mesh:  selectavatarmenubox
+		processing begun of material:  gray
+		processing begun of material:  background
+		processing begun of material:  blue
+		processing begun of material:  black
+		processing begun of multimaterial:  wtw_selectavatar.Multimaterial#0
+		num positions      :  23994
+		num normals        :  23994
+		num tangents       :  0
+		num uvs            :  47988
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  31300
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  button-save
+		animation processing begun
+			processing action Action:  in[1 - 99], out[0 - 99]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  name-displayname
+		processing begun of material:  white.001
+		num positions      :  22
+		num normals        :  22
+		num tangents       :  0
+		num uvs            :  44
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  name-displaynameborder
+		processing begun of material:  gray
+		registered as also a user of material:  gray
+		num positions      :  173
+		num normals        :  173
+		num tangents       :  0
+		num uvs            :  346
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  152
+	processing begun of mesh:  name-displaynameborderfocus
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  173
+		num normals        :  173
+		num tangents       :  0
+		num uvs            :  346
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  152
+	processing begun of mesh:  white
+		processing begun of material:  white.001
+		registered as also a user of material:  white.001
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  gray
+		processing begun of material:  gray
+		registered as also a user of material:  gray
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  blue
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  green
+		processing begun of material:  green
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  black
+		processing begun of material:  black
+		registered as also a user of material:  black
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  yellow
+		processing begun of material:  yellow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  button-savetext
+		processing begun of material:  white
+		num positions      :  4947
+		num normals        :  4947
+		num tangents       :  0
+		num uvs            :  9894
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6632
+	processing begun of mesh:  preview
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  button-next
+		animation processing begun
+			processing action Action.001:  in[1 - 99], out[0 - 99]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  0
+		num uvs            :  102
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  button-previous
+		animation processing begun
+			processing action Action.002:  in[1 - 99], out[0 - 99]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  49
+		num normals        :  49
+		num tangents       :  0
+		num uvs            :  98
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  globalserverdecal
+		processing begun of material:  globalserver
+			processing texture globalserverdecal
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  localserverdecal
+		processing begun of material:  localserver
+			processing texture localserverdecal
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  selectavatarmenubox
+	writing mesh:  button-save
+	writing mesh:  name-displayname
+	writing mesh:  name-displaynameborder
+	writing mesh:  name-displaynameborderfocus
+	writing mesh:  white
+	writing mesh:  gray
+	writing mesh:  blue
+	writing mesh:  green
+	writing mesh:  black
+	writing mesh:  yellow
+	writing mesh:  button-savetext
+	writing mesh:  preview
+	writing mesh:  button-next
+	writing mesh:  button-previous
+	writing mesh:  globalserverdecal
+	writing mesh:  localserverdecal
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.4325 secs
