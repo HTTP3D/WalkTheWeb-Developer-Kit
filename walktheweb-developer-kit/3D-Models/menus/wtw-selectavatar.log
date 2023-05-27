@@ -1,4 +1,4 @@
-Exporter version: 3.3.0, Blender version: 3.3.1
+Exporter version: 3.3.1, Blender version: 3.5.1
 ========= Conversion from Blender to Babylon.js =========
 	Scene settings used :
 		Inline textures     :  false
@@ -9,7 +9,7 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  C:\Data\HTTP3DInc\Blender\menus\
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\menus\
 	Python World class constructor completed
 	processing begun of mesh:  selectavatarmenubox
 		processing begun of material:  gray
@@ -17,10 +17,10 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		processing begun of material:  blue
 		processing begun of material:  black
 		processing begun of multimaterial:  wtw_selectavatar.Multimaterial#0
-		num positions      :  23994
-		num normals        :  23994
+		num positions      :  23996
+		num normals        :  23996
 		num tangents       :  0
-		num uvs            :  47988
+		num uvs            :  47992
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  31300
@@ -38,7 +38,7 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num colors         :  0
 		num triangles      :  84
 	processing begun of mesh:  name-displayname
-		processing begun of material:  white.001
+		processing begun of material:  white
 		num positions      :  22
 		num normals        :  22
 		num tangents       :  0
@@ -67,8 +67,8 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num colors         :  0
 		num triangles      :  152
 	processing begun of mesh:  white
-		processing begun of material:  white.001
-		registered as also a user of material:  white.001
+		processing begun of material:  white
+		registered as also a user of material:  white
 		num positions      :  4
 		num normals        :  4
 		num tangents       :  0
@@ -126,6 +126,7 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num triangles      :  2
 	processing begun of mesh:  button-savetext
 		processing begun of material:  white
+		registered as also a user of material:  white
 		num positions      :  4947
 		num normals        :  4947
 		num tangents       :  0
@@ -134,8 +135,7 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num colors         :  0
 		num triangles      :  6632
 	processing begun of mesh:  preview
-		processing begun of material:  white
-		registered as also a user of material:  white
+		processing begun of material:  white-old
 		num positions      :  4
 		num normals        :  4
 		num tangents       :  0
@@ -208,4 +208,4 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  localserverdecal
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.4325 secs
+elapsed time:  0 min, 2.6121 secs
