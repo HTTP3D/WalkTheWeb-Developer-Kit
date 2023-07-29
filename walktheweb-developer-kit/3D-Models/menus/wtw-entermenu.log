@@ -1,0 +1,132 @@
+Exporter version: 3.3.1, Blender version: 3.5.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\menus\
+	Python World class constructor completed
+	processing begun of mesh:  entermenubox
+		processing begun of material:  gray
+		processing begun of material:  background
+		processing begun of material:  blue
+		processing begun of material:  green.001
+		processing begun of multimaterial:  wtw_entermenu.Multimaterial#0
+		num positions      :  5295
+		num normals        :  5295
+		num tangents       :  0
+		num uvs            :  10590
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7966
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  blue
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  green
+		processing begun of material:  green
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  white
+		processing begun of material:  white
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  yellow
+		processing begun of material:  yellow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  button-enter
+		animation processing begun
+			processing action loginguestAction.001:  in[1 - 120], out[0 - 120]
+		processing begun of material:  blue
+		processing begun of material:  background
+		processing begun of material:  white
+		registered as also a user of material:  blue
+		registered as also a user of material:  background
+		registered as also a user of material:  white
+		processing begun of multimaterial:  wtw_entermenu.Multimaterial#1
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-entertext
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  3015
+		num normals        :  3015
+		num tangents       :  0
+		num uvs            :  6030
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4800
+	processing begun of mesh:  button-enterlogin
+		animation processing begun
+			processing action loginguestAction.002:  in[1 - 120], out[0 - 120]
+		processing begun of material:  blue
+		processing begun of material:  background
+		processing begun of material:  white
+		registered as also a user of material:  blue
+		registered as also a user of material:  background
+		registered as also a user of material:  white
+		processing begun of multimaterial:  wtw_entermenu.Multimaterial#2
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-enterlogintext
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  4824
+		num normals        :  4824
+		num tangents       :  0
+		num uvs            :  9648
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7614
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  entermenubox
+	writing mesh:  blue
+	writing mesh:  green
+	writing mesh:  white
+	writing mesh:  yellow
+	writing mesh:  button-enter
+	writing mesh:  button-entertext
+	writing mesh:  button-enterlogin
+	writing mesh:  button-enterlogintext
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.3755 secs
