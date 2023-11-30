@@ -1,0 +1,664 @@
+Exporter version: 3.3.1, Blender version: 3.6.2
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\inetpub\wtw\walktheweb-developer-kit\3D-Models\menus\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  blue
+		processing begun of material:  blue
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  green
+		processing begun of material:  green
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  white
+		processing begun of material:  white
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  yellow
+		processing begun of material:  yellow
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  button-closetext
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  6410
+		num normals        :  6410
+		num tangents       :  0
+		num uvs            :  12820
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8510
+	processing begun of mesh:  button-close
+		animation processing begun
+			processing action loginguestAction.002:  in[1 - 300], out[0 - 300]
+		processing begun of material:  gray
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  black
+		processing begun of material:  black
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  gray
+		processing begun of material:  gray
+		registered as also a user of material:  gray
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  button-part-0
+		animation processing begun
+			processing action loginwtwAction.001:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-1
+		animation processing begun
+			processing action loginwtwAction.002:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-2
+		animation processing begun
+			processing action loginwtwAction.003:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-3
+		animation processing begun
+			processing action loginwtwAction.004:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-4
+		animation processing begun
+			processing action loginwtwAction.005:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-5
+		animation processing begun
+			processing action loginwtwAction.006:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-6
+		animation processing begun
+			processing action loginwtwAction.007:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-7
+		animation processing begun
+			processing action loginwtwAction.008:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-8
+		animation processing begun
+			processing action loginwtwAction.009:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-part-9
+		animation processing begun
+			processing action loginwtwAction.010:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  editavatarmenubox
+		processing begun of material:  gray
+		processing begun of material:  background
+		processing begun of material:  blue
+		processing begun of material:  green.001
+		processing begun of material:  yellow
+		registered as also a user of material:  gray
+		registered as also a user of material:  blue
+		registered as also a user of material:  yellow
+		processing begun of multimaterial:  wtw_editavatarmenu.Multimaterial#0
+		num positions      :  9394
+		num normals        :  9394
+		num tangents       :  0
+		num uvs            :  18788
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  11943
+	processing begun of mesh:  button-color
+		animation processing begun
+			processing action loginwtwAction:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-colortext
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  2420
+		num normals        :  2420
+		num tangents       :  0
+		num uvs            :  4840
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1216
+	processing begun of mesh:  button-size
+		animation processing begun
+			processing action loginwtwAction.011:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-sizetext
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  1854
+		num normals        :  1854
+		num tangents       :  0
+		num uvs            :  3708
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  button-savecolorscaling
+		animation processing begun
+			processing action loginguestAction.003:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-savecolorscalingtext
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  2416
+		num normals        :  2416
+		num tangents       :  0
+		num uvs            :  4832
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1256
+	processing begun of mesh:  button-scalex0
+		animation processing begun
+			processing action loginwtwAction.012:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalex1
+		animation processing begun
+			processing action loginwtwAction.013:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalex2
+		animation processing begun
+			processing action loginwtwAction.014:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalex3
+		animation processing begun
+			processing action loginwtwAction.015:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalex0text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  24
+	processing begun of mesh:  button-scalex1text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  25
+		num normals        :  25
+		num tangents       :  0
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  button-scalex2text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  93
+		num normals        :  93
+		num tangents       :  0
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  button-scalex3text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  189
+		num normals        :  189
+		num tangents       :  0
+		num uvs            :  378
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  88
+	processing begun of mesh:  button-scalez0
+		animation processing begun
+			processing action loginwtwAction.017:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalez1
+		animation processing begun
+			processing action loginwtwAction.018:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalez2
+		animation processing begun
+			processing action loginwtwAction.019:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalez3
+		animation processing begun
+			processing action loginwtwAction.020:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scalez0text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  24
+	processing begun of mesh:  button-scalez1text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  25
+		num normals        :  25
+		num tangents       :  0
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  button-scalez2text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  93
+		num normals        :  93
+		num tangents       :  0
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  button-scalez3text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  189
+		num normals        :  189
+		num tangents       :  0
+		num uvs            :  378
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  88
+	processing begun of mesh:  button-scaley0
+		animation processing begun
+			processing action loginwtwAction.022:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scaley1
+		animation processing begun
+			processing action loginwtwAction.023:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scaley2
+		animation processing begun
+			processing action loginwtwAction.024:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scaley3
+		animation processing begun
+			processing action loginwtwAction.025:  in[1 - 300], out[0 - 300]
+		processing begun of material:  blue
+		registered as also a user of material:  blue
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84
+	processing begun of mesh:  button-scaley0text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  24
+	processing begun of mesh:  button-scaley1text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  25
+		num normals        :  25
+		num tangents       :  0
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  button-scaley2text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  93
+		num normals        :  93
+		num tangents       :  0
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  button-scaley3text
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  189
+		num normals        :  189
+		num tangents       :  0
+		num uvs            :  378
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  88
+	processing begun of mesh:  sizelabels
+		processing begun of material:  gray
+		processing begun of material:  blue
+		registered as also a user of material:  gray
+		registered as also a user of material:  blue
+		processing begun of multimaterial:  wtw_editavatarmenu.Multimaterial#1
+		num positions      :  15476
+		num normals        :  15476
+		num tangents       :  0
+		num uvs            :  30952
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7946
+	processing begun of mesh:  button-scalex
+		animation processing begun
+			processing action loginwtwAction.027:  in[1 - 300], out[0 - 300]
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  button-scalez
+		animation processing begun
+			processing action loginwtwAction.028:  in[1 - 300], out[0 - 300]
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  button-scaley
+		animation processing begun
+			processing action loginwtwAction.029:  in[1 - 300], out[0 - 300]
+		processing begun of material:  white
+		registered as also a user of material:  white
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  blue
+	writing mesh:  green
+	writing mesh:  white
+	writing mesh:  yellow
+	writing mesh:  button-closetext
+	writing mesh:  button-close
+	writing mesh:  black
+	writing mesh:  gray
+	writing mesh:  button-part-0
+	writing mesh:  button-part-1
+	writing mesh:  button-part-2
+	writing mesh:  button-part-3
+	writing mesh:  button-part-4
+	writing mesh:  button-part-5
+	writing mesh:  button-part-6
+	writing mesh:  button-part-7
+	writing mesh:  button-part-8
+	writing mesh:  button-part-9
+	writing mesh:  editavatarmenubox
+	writing mesh:  button-color
+	writing mesh:  button-colortext
+	writing mesh:  button-size
+	writing mesh:  button-sizetext
+	writing mesh:  button-savecolorscaling
+	writing mesh:  button-savecolorscalingtext
+	writing mesh:  button-scalex0
+	writing mesh:  button-scalex1
+	writing mesh:  button-scalex2
+	writing mesh:  button-scalex3
+	writing mesh:  button-scalex0text
+	writing mesh:  button-scalex1text
+	writing mesh:  button-scalex2text
+	writing mesh:  button-scalex3text
+	writing mesh:  button-scalez0
+	writing mesh:  button-scalez1
+	writing mesh:  button-scalez2
+	writing mesh:  button-scalez3
+	writing mesh:  button-scalez0text
+	writing mesh:  button-scalez1text
+	writing mesh:  button-scalez2text
+	writing mesh:  button-scalez3text
+	writing mesh:  button-scaley0
+	writing mesh:  button-scaley1
+	writing mesh:  button-scaley2
+	writing mesh:  button-scaley3
+	writing mesh:  button-scaley0text
+	writing mesh:  button-scaley1text
+	writing mesh:  button-scaley2text
+	writing mesh:  button-scaley3text
+	writing mesh:  sizelabels
+	writing mesh:  button-scalex
+	writing mesh:  button-scalez
+	writing mesh:  button-scaley
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.4796 secs
